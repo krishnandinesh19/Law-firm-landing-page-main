@@ -1,0 +1,27 @@
+.main {
+  margin-top: 50px;
+}
+.nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 53px;
+}
+.button_1 button {
+  background-color: black;
+  border: none;
+}
+
+.button_1 {
+  background-color: black;
+  border: none;
+  color: white;
+}
+.button_2 {
+  padding-top: 5px;
+}
+p {
+  font-size: 14px;
+  opacity: 70%;
+  text-align: center;
+}

@@ -1,0 +1,23 @@
+.Heading_1 {
+  display: flex;
+  align-items: center;
+  margin-top: 150px;
+  margin-bottom: 100px;
+}
+
+.Heading_2 {
+  width: 50%;
+  font-size: 30px;
+}
+.Lines {
+  margin-left: 50px;
+}
+.Athor {
+  margin-left: 100px;
+  font-size: 25px;
+}
+.Athor p {
+  width: 350px;
+  font-size: 20px;
+  opacity: 30%;
+}

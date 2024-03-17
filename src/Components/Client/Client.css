@@ -1,0 +1,33 @@
+.main {
+  display: flex;
+}
+.head {
+  padding: 50px;
+  font-size: 50px;
+  padding-left: 0px;
+  padding-right: 300px;
+  width: 40%;
+}
+.card {
+  border: 1px solid rgb(69, 67, 67);
+  color: white;
+  width: 260px;
+  height: 280px;
+  padding-top: 3rem;
+  padding-left: 2rem;
+  padding-right: 2.5rem;
+  padding-bottom: 1rem;
+  border-radius: 1rem;
+}
+.title {
+  margin-top: 30px;
+  margin-bottom: 10px;
+}
+.sub_title {
+  margin-top: 0px;
+  margin-bottom: 10px;
+}
+.text {
+  opacity: 30%;
+  font-size: 13px;
+}

@@ -1,0 +1,29 @@
+.main {
+  margin-top: 100px;
+}
+.main h1 {
+  text-align: center;
+  font-size: 54px;
+  margin-top: 50px;
+  margin-bottom: 30px;
+}
+.gridcontainer {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: 2fr 1fr;
+  margin-bottom: 10px;
+}
+.gridcontainer1 {
+  display: grid;
+  gap: 5px;
+  grid-template-columns: 1fr 2fr;
+  margin-bottom: 10px;
+}
+
+.griditem {
+  border: 1px solid rgba(0, 0, 0, 0.8);
+}
+.griditem img {
+  filter: brightness(150%);
+  height: 300px;
+}

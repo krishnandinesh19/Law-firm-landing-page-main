@@ -1,0 +1,10 @@
+.btn{
+  margin-right: 20px;
+  color: white;
+  background-color: black;
+  border: none;
+}
+.btn:hover{
+  color: lightgray;
+  opacity: 50px;
+}
